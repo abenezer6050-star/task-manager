@@ -34,10 +34,4 @@ python -m unittest test_api
 | PATCH | /api/tasks/<id> | Update title, priority, due_date or done |
 | DELETE | /api/tasks/<id> | Delete a task |
 
-## Put it on GitHub
 
-```bash
-git init
-git add .
-git commit -m "Initial task manager"
-```
