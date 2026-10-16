@@ -22,7 +22,7 @@ Open http://127.0.0.1:5000 (needs internet for the React CDN scripts and font).
 ## Run the tests
 
 ```bash
-python -m unittest discover tests
+python -m unittest test_api
 ```
 
 ## API
